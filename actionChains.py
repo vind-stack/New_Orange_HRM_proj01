@@ -22,4 +22,9 @@ print("NEWYORK CITY USA")
 
 print(" laxman rao masur bangalore poorna pragna layout whgitefield")
 
+print("These are short, famous texts in English from classic sources like the Bible or Shakespeare",
+      "Some texts have word definitions and explanations to help you.")
+
+
+
 
